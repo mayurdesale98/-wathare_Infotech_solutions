@@ -1,0 +1,19 @@
+.h3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.b {
+  font-weight: bold;
+  font-size: x-large;
+  color: rgb(52, 52, 52);
+}
+
+.location {
+  width: 1rem;
+  margin: 0.5rem;
+}
